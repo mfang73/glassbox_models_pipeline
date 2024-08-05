@@ -16,3 +16,5 @@ This repo will walk you through an end to end EBM project covering each step of 
 * Putting Everything Above In A Sklearn Pipeline
 * Model Tuning with Hyperopt
 * Explaining Your Model
+
+NOTE: The base functionalities are there, but I will be adding more explanations and cleaning up these notebooks. The most up to date version will always be on the 'dev' branch.
